@@ -1,4 +1,4 @@
-### Hi there, I'm zepnex :croatia: a self learning developer
+### Hi there, I'm zepnex a self learning developer
 
 `Connect with me ^^`
 
@@ -13,6 +13,7 @@
 <code><img aligin="left" alt="Python" width="26px" src="https://img.icons8.com/color/96/000000/python.png" /></code>
 
 `Tools`
+
 <code><img aligin="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/48/000000/github-2.png" /></code>
 <code><img aligin="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" /></code>
 
