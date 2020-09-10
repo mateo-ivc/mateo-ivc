@@ -2,8 +2,8 @@
 
 `Connect with me ^^`
 
-<code><img aligin="left" alt="Discord" width="26px" src="https://img.icons8.com/plasticine/100/000000/discord-logo.png" /></code>
-<code><img aligin="left" alt="Twitter" width="26px" src="https://img.icons8.com/officel/30/000000/twitter.png" /></code>
+<code><a herf="https://discordapp.com/users/386604517640372234"><img aligin="left" alt="Discord" width="26px" src="https://img.icons8.com/plasticine/100/000000/discord-logo.png" /></code>
+<code><a herf="https://twitter.com/_zepnex"><img aligin="left" alt="Twitter" width="26px" src="https://img.icons8.com/officel/30/000000/twitter.png" /></code>
 
 
 `Languages`
