@@ -1,19 +1,18 @@
-### Hi there, I'm zepnex a self learning developer
+### Hi there, I'm zepnex :croatia: a self learning developer
 
- ```diff
- @@ Connect with me ^^ @@
- ```
+`Connect with me ^^`
 
 <code><img aligin="left" alt="Discord" width="26px" src="https://img.icons8.com/plasticine/100/000000/discord-logo.png" /></code>
 <code><img aligin="left" alt="Twitter" width="26px" src="https://img.icons8.com/officel/30/000000/twitter.png" /></code>
 
 
-### Languages and Tools:
+`Languages`
 
 <code><img aligin="left" alt="Scala" width="26px" src="https://img.icons8.com/dusk/64/000000/scala.png" /></code>
 <code><img aligin="left" alt="Java" width="26px" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" /></code>
 <code><img aligin="left" alt="Python" width="26px" src="https://img.icons8.com/color/96/000000/python.png" /></code>
 
+`Tools`
 <code><img aligin="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/48/000000/github-2.png" /></code>
 <code><img aligin="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" /></code>
 
