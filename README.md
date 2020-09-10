@@ -1,4 +1,4 @@
-### Hi there, I'm zepnex a self learning developer
+#### _Hi there, I'm zepnex a self learning developer_
 
 `Connect with me ^^`
 
@@ -19,3 +19,5 @@
 
 
 <img aligin="left" alt="zepnex's Github Stats" src="https://github-readme-stats-94bp0qv14.vercel.app/api?username=zepnex&show_icons=true&hide_border=true" />
+
+eid annaw I sey
