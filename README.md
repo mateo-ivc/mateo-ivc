@@ -1,4 +1,4 @@
-### Hi there, I'm zepnex a self learning developer
+### <span style="color: green"> Hi there, I'm zepnex a self learning developer </span>
 
 ### Connect with me ^^
 <code><img aligin="left" alt="Discord" width="26px" src="https://img.icons8.com/plasticine/100/000000/discord-logo.png" /></code>
