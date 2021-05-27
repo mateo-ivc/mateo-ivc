@@ -13,6 +13,6 @@
 <code><img aligin="left" alt="IntellijIdea" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/></code>
 
 
-<img aligin="left" alt="zepnex's Github Stats" src="https://github-readme-stats-94bp0qv14.vercel.app/api?username=zepnex&show_icons=true&hide_border=true" />
+<img aligin="left" alt="zepnex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonightk&show_icons=true" />
 
 eid annaw I sey
