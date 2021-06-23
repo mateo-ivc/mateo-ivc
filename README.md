@@ -14,5 +14,6 @@
 
 
 <img aligin="left" alt="zepnex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zepnex&theme=dark&show_icons=true" />
+<img src="https://profile-counter.glitch.me/zepnex/count.svg" />
 
 eid annaw I sey
