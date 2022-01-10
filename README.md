@@ -16,8 +16,4 @@
 <p align="left">
 <img aligin="left" alt="zepnex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zepnex&theme=dark&show_icons=true" />
   <br />
-  Visitors
-  <br />
-<img src="https://profile-counter.glitch.me/zepnex/count.svg" />
 </p>
-eid annaw I sey
