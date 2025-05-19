@@ -2,9 +2,9 @@
 
 `Languages`
 
-<code><img alt="Golang" width="26px" src="https://www.svgrepo.com/show/353795/go.svg" /></code>
-<code><img alt="Java" width="26px" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" /></code>
-<code><img alt="Scala" width="26px" src="https://img.icons8.com/?size=256&id=40670&format=png" /></code>
+<code><img alt="golang" width="26px" src="https://www.svgrepo.com/show/353795/go.svg" /></code>
+<code><img alt="cpp" width="26px" src="https://www.svgrepo.com/show/373528/cpp3.svg" /></code>
+<code><img alt="java" width="26px" src="https://www.svgrepo.com/show/452234/java.svg" /></code>
 
 
 `Tools`
