@@ -9,7 +9,7 @@
 
 `Tools`
 
-<code><img alt="PostgreSQL" width="26px" src="./icons/zephyr-icon.svg"/></code>
+<code><img alt="ZephyrRTOS" width="26px" src="./icons/zephyr-icon.svg"/></code>
 <code><img alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/></code>
 <code><img alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/></code>
 <code><img alt ="Docker" width="26px" src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000"/></code>
